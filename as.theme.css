@@ -26,7 +26,7 @@
 }
 
 :root {
-  --font-primary: "JetBrains Mono";
+  --font-primary: "JetBrains Mono" Monospace;
   --font-display: var(--font-primary);
 }
 :root .channelName-3KPsGw {
