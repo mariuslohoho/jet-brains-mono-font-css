@@ -1,1 +1,9 @@
 
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source Code Pro:wght@550&display=swap');
+
+:root {
+  --font-primary: JetBrains Mono;
+  --font-code: Source Code Pro;
+  --font-weight: 800;
+}
