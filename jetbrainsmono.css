@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source Code Pro:wght@550&display=swap');
 
 :root {
-  --font-primary: JetBrains Mono;
-  --font-code: Source Code Pro;
-  --font-weight: 800;
+  --font-primary: JetBrains Mono !important;
+  --font-code: Source Code Pro !important;
+  --font-weight: 800 !important;
 }
